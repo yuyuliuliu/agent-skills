@@ -1,4 +1,4 @@
-# Agent Skills — Field-Tested Skills for AI Coding Agents
+﻿# Agent Skills — Field-Tested Skills for AI Coding Agents
 
 Practical, battle-tested Agent Skills (per the [agentskills.io](https://agentskills.io) specification) distilled from running a real one-person AI company: a multi-session AI operation that produces short-video content for local restaurants, analyzes customer feedback, and maintains its own knowledge base.
 
@@ -32,7 +32,7 @@ Copy a skill folder into your agent's skills directory:
 Or install across 9 platforms with [openskills](https://www.npmjs.com/package/openskills): `npm i -g openskills && openskills install yuyuliuliu/agent-skills`
 
 ## Related
-- 中文完整版实战知识（TTS 引擎调教判决书等）在 [UUMit 知识商店](https://www.uumit.com) 搜索 "中文 AI 配音避坑包"。
+- 中文完整版实战知识（TTS 引擎调教判决书等）在 UUMit 知识商店：[《中文 AI 配音避坑包》](https://m.uumit.com/share/digital-assets/f8d352db-3605-449c-980d-9c138a215b77)。
 
 ## License
 MIT © 2026. The real-case excerpts remain the property of their operator; please keep attribution links intact.
